@@ -1,4 +1,5 @@
-# cihuy
+# Fintax Internship Task
+A random front-end to fulfill a task for Fintax Internship Program, built with Vue.
 
 ## Project setup
 ```
